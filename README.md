@@ -1,5 +1,5 @@
 # Guessing-Game
-Creating a user-system friendly guessing game i.e the number guessing game which is espeically beginner friendly and can be modified fruther to make it more interesting and advanced . *This project is made using *Python* as it's basic language !*
+Creating a user-system friendly guessing game i.e the number guessing game which is especially beginner friendly and can be modified fruther to make it more interesting and advanced . *This project is made using *Python* as it's basic language !*
 The *Guessing-Game* uses the following basic steps :
 *1.In this game the user selects the RANGE OF THE NUMBER TO BE GUESSED*
 *2.The system chooses a RANDOM NUMBER using the same range provided by the user*
