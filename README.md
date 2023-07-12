@@ -3,4 +3,4 @@ Creating a user-system friendly guessing game i.e the number guessing game which
 The *Guessing-Game* uses the following basic steps :
 *1.In this game the user selects the RANGE OF THE NUMBER TO BE GUESSED*
 *2.The system chooses a RANDOM NUMBER using the same range provided by the user*
-*3.The user will be given 'n' number of guesses until the user selects the random integer choose by the system by giving appropriate message as hints for the user to choose in that certain range only*
+*3.The user will be given 'n' number of guesses until the user selects the random integer chose by the system by giving appropriate message as hints for the user to choose in that certain range only*
