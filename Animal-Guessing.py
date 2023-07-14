@@ -3,9 +3,9 @@ my_dict = {
     'tiger' : 'Striped animal, orange',
     'lion' : 'King',
     'Camel' : 'Dessert',
-    'am' : 'My best friend',
+    'Monkey' : 'You have those Genes',
     'Cow' : 'Sacared one',
-    'goat' : 'bakara , another name of sam fyi',
+    'goat' : 'Messi !',
     'ictoae' : 'I cannot think of anything else'
     'fish' : 'water'
         }
