@@ -1,6 +1,8 @@
 import random
 chose_by_system = random.choice(open("animals.txt","r").read().split())
 flag = 1
+print("These are the animals available in the system :")
+print([line.strip() for line in open("animals.txt")])
 print("The Animal Guessing Game starts here!!")
 while flag!=0:
     chose_by_user = input("Enter the animal: ")
@@ -8,7 +10,5 @@ while flag!=0:
         print("Yay!! you got it right!")
         flag = 0
     else:
-        with open("animals.txt","a") as file:
-            file.write(chose_by_user)
         print("Sorry!! try again")
 
