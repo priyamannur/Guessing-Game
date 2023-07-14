@@ -7,6 +7,7 @@ my_dict = {
     'Cow' : 'Sacared one',
     'goat' : 'bakara , another name of sam fyi',
     'ictoae' : 'I cannot think of anything else'
+    'fish' : 'water'
         }
 end = len(my_dict)
 i = randint(0,end-1)
